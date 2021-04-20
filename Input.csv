@@ -1,0 +1,1173 @@
+﻿Section;MSIC Code;Description;ISIC CODE
+A;01111;Growing of maize;0111
+A;01113;Growing of oil seeds;0111
+A;01119;Growing of other cereals n.e.c.;0111
+A;01120;Growing of paddy;0112
+A;01131;Growing of leafy or stem vegetables;0113
+A;01132;Growing of fruits bearing vegetables;0113
+A;01133;Growing of melons;0113
+A;01134;Growing of mushrooms and truffles;0113
+A;01135;Growing of vegetables seeds, except beet seeds;0113
+A;01136;Growing of other vegetables;0113
+A;01137;Growing of sugar beet;0113
+A;01138;Growing of roots, tubers, bulb or tuberous vegetables;0113
+A;01140;Growing of sugar cane;0114
+A;01150;Growing of tobacco;0115
+A;01160;Growing of fibre crops;0116
+A;01191;Growing of flowers;0119
+A;01192;Growing of flower seeds;0119
+A;01193;Growing of sago (rumbia);0119
+A;01199;Growing of other non-perennial crops n.e.c.;0119
+A;01210;Growing of grapes;0121
+A;01221;Growing of banana;0122
+A;01222;Growing of mango;0122
+A;01223;Growing of durian;0122
+A;01224;Growing of rambutan;0122
+A;01225;Growing of star fruit;0122
+A;01226;Growing of papaya;0122
+A;01227;Growing of pineapple;0122
+A;01228;Growing of pitaya (dragon fruit);0122
+A;01229;Growing of other tropical and subtropical fruits n.e.c.;0122
+A;01231;Growing of pomelo;0123
+A;01232;Growing of lemon and limes;0123
+A;01233;Growing of tangerines and mandarin;0123
+A;01239;Growing of other citrus fruits n.e.c.;0123
+A;01241;Growing of guava;0124
+A;01249;Growing of other pome fruits and stones fruits n.e.c.;0124
+A;01251;Growing of berries;0125
+A;01252;Growing of fruit seeds;0125
+A;01253;Growing of edible nuts;0125
+A;01259;Growing of other tree and bush fruits;0125
+A;01261;Growing of oil palm (estate);0126
+A;01262;Growing of oil palm (smallholdings);0126
+A;01263;Growing of coconut (estate and smallholdings);0126
+A;01269;Growing of other oleaginous fruits n.e.c.;0126
+A;01271;Growing of coffee;0127
+A;01272;Growing of tea;0127
+A;01273;Growing of cocoa;0127
+A;01279;Growing of other beverage crops n.e.c.;0127
+A;01281;Growing of pepper (piper nigrum);0128
+A;01282;Growing of chilies and pepper (capsicum spp.);0128
+A;01283;Growing of nutmeg;0128
+A;01284;Growing of ginger;0128
+A;01285;Growing of plants used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes;0128
+A;01289;Growing of other spices and aromatic crops n.e.c.;0128
+A;01291;Growing of rubber trees (estate);0129
+A;01292;Growing of rubber trees (smallholdings);0129
+A;01293;Growing of trees for extraction of sap;0129
+A;01294;Growing of nipa palm;0129
+A;01295;Growing of areca;0129
+A;01296;Growing of roselle;0129
+A;01299;Growing of other perennial crops n.e.c.;0129
+A;01301;Growing of plants for planting;0130
+A;01302;Growing of plants for ornamental purposes;0130
+A;01303;Growing of live plants for bulbs, tubers and roots cuttings and slips mushroom spawn;0130
+A;01304;Operation of tree nurseries;0130
+A;01411;Raising, breeding and production of cattle or buffaloes;0141
+A;01412;Production of raw milk from cows or buffaloes;0141
+A;01413;Production of bovine semen;0141
+A;01420;Raising and breeding of horses, asses, mules or hinnes;0142
+A;01430;Raising and breeding of camels (dromedary) and camelids;0143
+A;01441;Raising, breeding and production of sheep and goats;0144
+A;01442;Production of raw sheep or goat’s milk;0144
+A;01443;Production of raw wool;0144
+A;01450;Raising, breeding and production of swine/pigs;0145
+A;01461;Raising, breeding and production of chicken, broiler;0146
+A;01462;Raising, breeding and production of ducks;0146
+A;01463;Raising, breeding and production of geese;0146
+A;01464;Raising, breeding and production of quails;0146
+A;01465;Raising and breeding of other poultry n.e.c.;0146
+A;01466;Production of chicken eggs;0146
+A;01467;Production of duck eggs;0146
+A;01468;Production of other poultry eggs n.e.c.;0146
+A;01469;Operation of poultry hatcheries;0146
+A;01491;Raising, breeding and production of semi-domesticated;0149
+A;01492;Production of fur skins, reptile or bird’s skin from ranching operation;0149
+A;01493;Operation of worm farms, land mollusc farms, snail farms;0149
+A;01494;Raising of silk worms and production of silk worm cocoons;0149
+A;01495;Bee keeping and production of honey and beeswax;0149
+A;01496;Raising and breeding of pet animalsForm C 2012 Guidebook Self Assessment System;0149
+A;01497;Raising and breeding of swiflet;0149
+A;01499;Raising of diverse/other animals n.e.c.;0149
+A;01500;Mixed Farming;0150
+A;01610;Agricultural activities for crops production on a fee or contract basis;0161
+A;01620;Agricultural activities for animal production on a fee or contract basis;0162
+A;01631;Preparation of crops for primary markets;0163
+A;01632;Preparation of tobacco leaves;0163
+A;01633;Preparation of cocoa beans;0163
+A;01634;Sun-drying of fruits and vegetables;0163
+A;01640;Seed processing for propagation;0164
+A;01701;Hunting and trapping on a commercial basis;0170
+A;01702;Taking of animals (dead or alive);0170
+A;02101;Planting, replanting, transplanting, thinning and conserving of forests and timber tracts;0210
+A;02102;Growing of coppice, pulpwood and fire wood;0210
+A;02103;Operation of forest tree nurseries;0210
+A;02104;Collection and raising of wildings (peat swamp forest tree species);0210
+A;02105;Forest plantation;0210
+A;02201;Production of round wood for forest-based manufacturing industries;0220
+A;02202;Production of round wood used in an unprocessed form;0220
+A;02203;Production of charcoal in the forest (using traditional methods);0220
+A;02204;Rubber wood logging;0220
+A;02301;Collection of rattan, bamboo;0230
+A;02302;Bird’s nest collection;0230
+A;02303;Wild sago palm collection;0230
+A;02309;Gathering of non-wood forest products n.e.c.;0230
+A;02401;Carrying out part of the forestry and forest plantation operation on a fee or contract basis for forestry service activities;0240
+A;02402;Carrying out part of the forestry operation on a fee or contract basis for logging service activities;0240
+A;03111;Fishing on a commercial basis in ocean and coastal waters;0311
+A;03112;Collection of marine crustaceans and molluscs;0311
+A;03113;Taking of aquatic animals: sea squirts, tunicates, sea urchins;0311
+A;03114;Activities of vessels engaged both in fishing and in processing and preserving of fish;0311
+A;03115;Gathering of other marine organisms and materials (natural pearls, sponges, coral and algae);0311
+A;03119;Marine fishing n.e.c.;0311
+A;03121;Fishing on a commercial basis in inland waters;0312
+A;03122;Taking of freshwater crustaceans and molluscs;0312
+A;03123;Taking of freshwater aquatic animals;0312
+A;03124;Gathering of freshwater flora and fauna;0312
+A;03129;Freshwater fishing n.e.c.;0312
+A;03211;Fish farming in sea water;0321
+A;03212;Production of bivalve spat (oyster, mussel), lobster lings, shrimp post-larvae, fish fry and fingerlingsForm C 2012 Guidebook Self Assessment System;0321
+A;03213;Growing of laver and other edible seaweeds;0321
+A;03214;Culture of crustaceans, bivalves, other molluscs and other aquatic animals in sea water;0321
+A;03215;Aquaculture activities in brackish water;0321
+A;03216;Aquaculture activities in salt water filled tanks or reservoirs;0321
+A;03217;Operation of hatcheries (marine);0321
+A;03218;Operation of marine worm farms for fish feed;0321
+A;03219;Marine aquaculture n.e.c.;0321
+A;03221;Fish farming in freshwater;0322
+A;03222;Shrimp farming in freshwater;0322
+A;03223;Culture of freshwater crustaceans, bivalves, other molluscs and other aquatic animals;0322
+A;03224;Operation of hatcheries (freshwater);0322
+A;03225;Farming of frogs;0322
+A;03229;Freshwater aquaculture n.e.c.;0322
+B;05100;Mining of hard coal;0510
+B;05200;Mining of lignite (brown coal);0520
+B;06101;Extraction of crude petroleum oils;0610
+B;06102;Extraction of bituminous or oil shale and tar sand;0610
+B;06103;Production of crude petroleum from bituminous shale and sand;0610
+B;06104;Processes to obtain crude oils;0610
+B;06201;Production of crude gaseous hydrocarbon (natural gas);0620
+B;06202;Extraction of condensates;0620
+B;06203;Draining and separation of liquid hydrocarbon fractions;0620
+B;06204;Gas desulphurization;0620
+B;06205;Mining of hydrocarbon liquids, obtain through liquefaction or pyrolysis;0620
+B;07101;Mining of ores valued chiefly for iron content;0710
+B;07102;Beneficiation and agglomeration of iron ores;0710
+B;07210;Mining of uranium and thorium ores;0721
+B;07291;Mining of tin ores;0729
+B;07292;Mining of copper;0729
+B;07293;Mining of bauxite (aluminium);0729
+B;07294;Mining of ilmenite;0729
+B;07295;Mining of gold;0729
+B;07296;Mining of silver;0729
+B;07297;Mining of platinum;0729
+B;07298;Amang retreatment;0729
+B;07299;Mining of other non-ferrous metal ores n.e.c.;0729
+B;08101;Quarrying, rough trimming and sawing of monumental and building stone such as marble, granite (dimension stone), sandstone;0810
+B;08102;Quarrying, crushing and breaking of limestone;0810
+B;08103;Mining of gypsum and anhydrite;0810
+B;08104;Mining of chalk and uncalcined dolomiteForm C 2012 Guidebook Self Assessment System;0810
+B;08105;Extraction and dredging of industrial sand, sand for construction and gravel;0810
+B;08106;Breaking and crushing of stone and gravel;0810
+B;08107;Quarrying of sand;0810
+B;08108;Mining of clays, refractory clays and kaolin;0810
+B;08109;Quarrying, crushing and breaking of granite;0810
+B;08911;Mining of natural phosphates;0891
+B;08912;Mining of natural potassium salts;0891
+B;08913;Mining of native sulphur;0891
+B;08914;Extraction and preparation of pyrites and pyrrhotite, except roasting;0891
+B;08915;Mining of natural barium sulphate and carbonate (barytes and witherite);0891
+B;08916;Mining of natural borates, natural magnesium sulphates (kieserite);0891
+B;08917;Mining of earth colours, fluorspar and other minerals valued chiefly as a source of chemicals;0891
+B;08918;Guano mining;0891
+B;08921;Peat digging;0892
+B;08922;Peat agglomeration;0892
+B;08923;Preparation of peat to improve quality or facilitate transport or storage;0892
+B;08931;Extraction of salt from underground;0893
+B;08932;Salt production by evaporation of sea water or other saline waters;0893
+B;08933;Crushing, purification and refining of salt by the producer;0893
+B;08991;Mining and quarrying of abrasive materials;0899
+B;08992;Mining and quarrying of asbestos;0899
+B;08993;Mining and quarrying of siliceous fossil meals;0899
+B;08994;Mining and quarrying of natural graphite;0899
+B;08995;Mining and quarrying of steatite (talc);0899
+B;08996;Mining and quarrying of gemstones;0899
+B;08999;Other mining and quarrying n.e.c.;0899
+B;09101;Oil and gas extraction service activities provided on a fee or contract basis;0910
+B;09102;Oil and gas field fire fighting services;0910
+B;09900;Support activities for other mining and quarrying;0990
+C;10101;Processing and preserving of meat and production of meat products;1010
+C;10102;Processing and preserving of poultry and poultry products;1010
+C;10103;Production of hides and skins originating from slaughterhouses;1010
+C;10104;Operation of slaughterhouses engaged in killing, houses dressing or packing meat;1010
+C;10109;Processing and preserving of meat n.e.c.;1010
+C;10201;Canning of fish, crustaceans and mollusks;1020
+C;10202;Processing, curing and preserving of fish, crustacean and molluscs;1020
+C;10203;Production of fish meals for human consumption or animal feed;1020
+C;10204;Production of keropok including keropok lekor;1020
+C;10205;Processing of seaweed;1020
+C;10301;Manufacture of fruits and vegetable food products;1030
+C;10302;Manufacture of fruit and vegetable juices;1030
+C;10303;Pineapple canning;1030
+C;10304;Manufacture of jams, marmalades and table jellies Form C 2012 Guidebook Self Assessment System;1030
+C;10305;Manufacture of nuts and nut products;1030
+C;10306;Manufacture of bean curd products;1030
+C;10401;Manufacture of crude palm oil;1040
+C;10402;Manufacture of refined palm oil;1040
+C;10403;Manufacture of palm kernel oil;1040
+C;10404;Manufacture of crude and refined vegetable oil;1040
+C;10405;Manufacture of coconut oil;1040
+C;10406;Manufacture of compound cooking fats;1040
+C;10407;Manufacture of animal oils and fats;1040
+C;10501;Manufacture of ice cream and other edible ice such as sorbet;1050
+C;10502;Manufacture of condensed, powdered and evaporated milk;1050
+C;10509;Manufacture of other dairy products n.e.c.;1050
+C;10611;Rice milling;1061
+C;10612;Provision of milling services;1061
+C;10613;Flour milling;1061
+C;10619;Manufacture of grain mill products n.e.c.;1061
+C;10621;Manufacture of starches and starch products;1062
+C;10622;Manufacture of glucose, glucose syrup, maltose, inulin;1062
+C;10623;Manufacture of sago and tapioca flour/products;1062
+C;10711;Manufacture of biscuits and cookies;1071
+C;10712;Manufacture of bread, cakes and other bakery products;1071
+C;10713;Manufacture of snack products;1071
+C;10714;Manufacture of frozen bakery products;1071
+C;10721;Manufacture of sugar;1072
+C;10722;Manufacture of sugar products;1072
+C;10731;Manufacture of cocoa products;1073
+C;10732;Manufacture of chocolate and chocolate products;1073
+C;10733;Manufacture of sugar confectionery;1073
+C;10741;Manufacture of meehoon, noodles and other related products;1074
+C;10742;Manufacture of pastas;1074
+C;10750;Manufacture of prepared meals and dishes;1075
+C;10791;Manufacture of coffee;1079
+C;10792;Manufacture of tea;1079
+C;10793;Manufacture of sauces and condiments;1079
+C;10794;Manufacture of spices and curry powder;1079
+C;10795;Manufacture of egg products;1079
+C;10799;Manufacture of other food products n.e.c.;1079
+C;10800;Manufacture of prepared animal feeds;1080
+C;11010;Distilling, rectifying and blending of spirits;1101
+C;11020;Manufacture of wines;1102
+C;11030;Manufacture of malt liquors and malt;1103
+C;11041;Manufacture of soft drinks;1104
+C;11042;Production of natural mineral water and other bottled water;1104
+C;12000;MANUFACTURE OF TOBACCO PRODUCTS;1200
+C;13110;Preparation and spinning of textile fibres;1311
+C;13120;Weaving of textiles;1312
+C;13131;Batik making;1313
+C;13132;Dyeing, bleaching, printing and finishing of yarns and fabrics;1313
+C;13139;Other finishing textiles;1313
+C;13910;Manufacture of knitted and crocheted fabrics;1391
+C;13921;Manufacture of made-up articles of any textile materials, including of knitted or crocheted fabrics;1392
+C;13922;Manufacture of made-up furnishing articles;1392
+C;13930;Manufacture of carpets and rugs;1393
+C;13940;Manufacture of cordage, rope, twine and netting;1394
+C;13990;Manufacture of other textiles n.e.c.;1399
+C;14101;Manufacture of specific wearing apparel;1410
+C;14102;Manufacture of clothings;1410
+C;14103;Custom tailoring;1410
+C;14109;Manufacture of other clothing accessories;1410
+C;14200;Manufacture of articles made of fur skins;1420
+C;14300;Manufacture of knitted and crocheted apparel;1430
+C;15110;Tanning and dressing of leather dressing and dyeing of fur;1511
+C;15120;Manufacture of luggage, handbags and the like, saddlery and harness;1512
+C;15201;Manufacture of leather footwear;1520
+C;15202;Manufacture of plastic footwear;1520
+C;15203;Manufacture of rubber footwear;1520
+C;15209;Manufacture of other footwear n.e.c.;1520
+C;16211;Manufacture of veneer sheets and plywood;1621
+C;16212;Manufacture of particle board and fibreboard;1621
+C;16221;Manufacture of builders' carpentry;1622
+C;16222;Manufacture of joinery wood products;1622
+C;16230;Manufacture of wooden containers;1623
+C;16291;Manufacture of wood charcoal;1629
+C;16292;Manufacture of other products of wood, cane, articles of cork, straw and plaiting materials;1629
+C;17010;Manufacture of pulp, paper and paperboard;1701
+C;17020;Manufacture of corrugated paper and paperboard and of containers of paper and paperboard;1702
+C;17091;Manufacture of envelopes and letter-card;1709
+C;17092;Manufacture of household and personal hygiene paper;1709
+C;17093;Manufacture of gummed or adhesive paper in strips or rolls and labels and wall paper;1709
+C;17094;Manufacture of effigies, funeral paper goods, joss paper;1709
+C;17099;Manufacture of other articles of paper and paperboard n.e.c.;1709
+C;18110;Printing;1811
+C;18120;Service activities related to printing;1812
+C;18200;Reproduction of recorded media;1820
+C;19100;Manufacture of coke oven products;1910
+C;19201;Manufacture of refined petroleum products;1920
+C;19202;Manufacture of bio-diesel products;1920
+C;20111;Manufacture of liquefied or compressed inorganic industrial or medical gases;2011
+C;20112;Manufacture of basic organic chemicals;2011
+C;20113;Manufacture of inorganic compounds;2011
+C;20119;Manufacture of other basic chemicals n.e.c.;2011
+C;20121;Manufacture of fertilizers;2012
+C;20129;Manufacture of associated nitrogen products;2012
+C;20131;Manufacture of plastic in primary forms;2013
+C;20132;Manufacture of synthetic rubber in primary forms: synthetic rubber, factice;2013
+C;20133;Manufacture of mixtures of synthetic rubber and natural rubber or rubber - like gums;2013
+C;20210;Manufacture of pesticides and other agrochemical products;2021
+C;20221;Manufacture of paints, varnishes and similar coatings ink and mastics;2022
+C;20222;Manufacture of printing ink;2022
+C;20231;Manufacture of soap and detergents, cleaning and polishing preparations;2023
+C;20232;Manufacture of perfumes and toilet preparations;2023
+C;20291;Manufacture of photographic plates, films, sensitized paper and other sensitized unexposed materials;2029
+C;20292;Manufacture of writing and drawing ink;2029
+C;20299;Manufacture of other chemical products n.e.c.;2029
+C;20300;Manufacture of man-made fibres;2030
+C;21001;Manufacture of medicinal active substances to be used for their pharmacological properties in the manufacture of medicaments;2100
+C;21002;Processing of blood;2100
+C;21003;Manufacture of medicaments;2100
+C;21004;Manufacture of chemical contraceptive products;2100
+C;21005;Manufacture of medical diagnostic preparation;2100
+C;21006;Manufacture of radioactive in-vivo diagnostic substances;2100
+C;21007;Manufacture of biotech pharmaceuticals;2100
+C;21009;Manufacture of other pharmaceuticals, medicinal chemical and botanical products n.e.c.;2100
+C;22111;Manufacture of rubber tyres for vehicles;2211
+C;22112;Manufacture of interchangeable tyre treads and retreading rubber tyres;2211
+C;22191;Manufacture of other products of natural or synthetic rubber, unvulcanized, vulcanized or hardened;2219
+C;22192;Manufacture of rubber gloves;2219
+C;22193;Rubber remilling and latex processing;2219
+C;22199;Manufacture of other rubber products n.e.c;2219
+C;22201;Manufacture of semi-manufactures of plastic products;2220
+C;22202;Manufacture of finished plastic products;2220
+C;22203;Manufacture of plastic articles for the packing of goods;2220
+C;22204;Manufacture of builders' plastics ware;2220
+C;22205;Manufacture of plastic tableware, kitchenware and toilet articles;2220
+C;22209;Manufacture of diverse plastic products n.e.c.;2220
+C;23101;Manufacture of flat glass, including wired, coloured or tinted flat glass;2310
+C;23102;Manufacture of laboratory, hygienic or pharmaceutical glassware;2310
+C;23109;Manufacture of other glass products n.e.c.;2310
+C;23911;Manufacture of refractory mortars and concretes;2391
+C;23912;Manufacture of refractory ceramic goods;2391
+C;23921;Manufacture of non-refractory ceramic;2392
+C;23929;Manufacture of other clay building materials;2392
+C;23930;Manufacture of other porcelain and ceramic products;2393
+C;23941;Manufacture of hydraulic cement;2394
+C;23942;Manufacture of lime and plaster;2394
+C;23951;Manufacture of ready-mix and dry-mix concrete and mortars;2395
+C;23952;Manufacture of precast concrete, cement or artificial stone articles for use in construction;2395
+C;23953;Manufacture of prefabricated structural components for building or civil engineering of cement, concrete or artificial stone;2395
+C;23959;Manufacture of other articles of concrete, cement and plaster n.e.c.;2395
+C;23960;Cutting, shaping and finishing of stone;2396
+C;23990;Manufacture of other non-metallic mineral products n.e.c.;2399
+C;24101;Production of pig iron and spiegeleisen in pigs, blocks or other primary forms;2410
+C;24102;Production of bars and rods of stainless steel or other alloy steel;2410
+C;24103;Manufacture of seamless tubes, by hot rolling, hot extrusion or hot drawing, or by cold drawing or cold rolling;2410
+C;24104;Manufacture of steel tube fittings;2410
+C;24109;Manufacture of other basic iron and steel products n.e.c.;2410
+C;24201;Tin smelting;2420
+C;24202;Production of aluminium from alumina;2420
+C;24209;Manufacture of other basic precious and other non-ferrous metals n.e.c.;2420
+C;24311;Casting of iron;2431
+C;24312;Casting of steel;2431
+C;24320;Casting of non-ferrous metals;2432
+C;25111;Manufacture of industrial frameworks in metal;2511
+C;25112;Manufacture of prefabricated buildings mainly of metal;2511
+C;25113;Manufacture of metal doors, windows and their frames, shutters and gates;2511
+C;25119;Manufacture of other structural metal products;2511
+C;25120;Manufacture of tanks, reservoirs and containers of metal;2512
+C;25130;Manufacture of steam generators, except central heating hot water boilers;2513
+C;25200;Manufacture of weapons and ammunitionForm C 2012 Guidebook Self Assessment System;2520
+C;25910;Forging, pressing, stamping and roll-forming of metal powder metallurgy;2591
+C;25920;Treatment and coating of metals machining;2592
+C;25930;Manufacture of cutlery, hand tools and general hardware;2593
+C;25991;Manufacture of tins and cans for food products, collapsible tubes and boxes;2599
+C;25992;Manufacture of metal cable, plaited bands and similar articles;2599
+C;25993;Manufacture of bolts, screws, nuts and similar threaded products;2599
+C;25994;Manufacture of metal household articles;2599
+C;25999;Manufacture of any other fabricated metal products n.e.c.;2599
+C;26101;Manufacture of diodes, transistors and similar semiconductor devices;2610
+C;26102;Manufacture electronic integrated circuits micro assemblies;2610
+C;26103;Manufacture of electrical capacitors and resistors;2610
+C;26104;Manufacture of printed circuit boards;2610
+C;26105;Manufacture of display components;2610
+C;26109;Manufacture of other components for electronic applications;2610
+C;26201;Manufacture of computers;2620
+C;26202;Manufacture of peripheral equipment;2620
+C;26300;Manufacture of communication equipment;2630
+C;26400;Manufacture of consumer electronics;2640
+C;26511;Manufacture of measuring, testing, navigating and control equipment;2651
+C;26512;Manufacture of industrial process control equipment;2651
+C;26520;Manufacture of watches and clocks and parts;2652
+C;26600;Manufacture of irradiation, electro medical and electrotherapeutic equipment;2660
+C;26701;Manufacture of optical instruments and equipment;2670
+C;26702;Manufacture of photographic equipment;2670
+C;26800;Manufacture of magnetic and optical recording media;2680
+C;27101;Manufacture of electric motors, generators and transformers;2710
+C;27102;Manufacture of electricity distribution and control apparatus;2710
+C;27200;Manufacture of batteries and accumulators;2720
+C;27310;Manufacture of fibre optic cables;2731
+C;27320;Manufacture of other electronic and electric wires and cables;2732
+C;27330;Manufacture of current-carrying and non current-carrying wiring devices for electrical circuits regardless of material;2733
+C;27400;Manufacture of electric lighting equipment;2740
+C;27500;Manufacture of domestic appliances;2750
+C;27900;Manufacture of miscellaneous electrical equipment other than motors, generators and transformers, batteries and accumulators, wires and wiring devices, lighting equipment or domestic appliances;2790
+C;28110;Manufacture of engines and turbines, except aircraft, vehicle and cycle engines;2811
+C;28120;Manufacture of fluid power equipmentForm C 2012 Guidebook Self Assessment System;2812
+C;28130;Manufacture of other pumps, compressors, taps and valves;2813
+C;28140;Manufacture of bearings, gears, gearing and driving elements;2814
+C;28150;Manufacture of ovens, furnaces and furnace burners;2815
+C;28160;Manufacture of lifting and handling equipment;2816
+C;28170;Manufacture of office machinery and equipment (except computers and peripheral equipment);2817
+C;28180;Manufacture of power-driven hand tools with self-contained electric or non-electric motor or pneumatic drives;2818
+C;28191;Manufacture of refrigerating or freezing industrial equipment;2819
+C;28192;Manufacture of air-conditioning machines, including for motor vehicles;2819
+C;28199;Manufacture of other general-purpose machinery n.e.c.;2819
+C;28210;Manufacture of agricultural and forestry machinery;2821
+C;28220;Manufacture of metal-forming machinery and machine tools;2822
+C;28230;Manufacture of machinery for metallurgy;2823
+C;28240;Manufacture of machinery for mining, quarrying and construction;2824
+C;28250;Manufacture of machinery for food, beverage and tobacco processing;2825
+C;28260;Manufacture of machinery for textile, apparel and leather production;2826
+C;28290;Manufacture of other special-purpose machinery n.e.c.;2829
+C;29101;Manufacture of passenger cars;2910
+C;29102;Manufacture of commercial vehicles;2910
+C;29200;Manufacture of bodies (coachwork) for motor vehicles manufacture of trailers and semitrailers;2920
+C;29300;Manufacture of parts and accessories for motor vehicles;2930
+C;30110;Building of ships and floating structures;3011
+C;30120;Building of pleasure and sporting boats;3012
+C;30200;Manufacture of railway locomotives and rolling stock;3020
+C;30300;Manufacture of air and spacecraft and related machinery;3030
+C;30400;Manufacture of military fighting vehicles;3040
+C;30910;Manufacture of motorcycles;3091
+C;30920;Manufacture of bicycles and invalid carriages;3092
+C;30990;Manufacture of other transport equipments n.e.c.;3099
+C;31001;Manufacture of wooden and cane furniture;3100
+C;31002;Manufacture of metal furniture;3100
+C;31003;Manufacture of mattress;3100
+C;31009;Manufacture of other furniture, except of stone, concrete or ceramic;3100
+C;32110;Manufacture of jewellery and related articles;3211
+C;32120;Manufacture of imitation jewellery and related articles;3212
+C;32200;Manufacture of musical instruments;3220
+C;32300;Manufacture of sports goods;3230
+C;32400;Manufacture of games and toys;3240
+C;32500;Manufacture of medical and dental instrument and supplies;3250
+C;32901;Manufacture of stationeryForm C 2012 Guidebook Self Assessment System;3290
+C;32909;Other manufacturing n.e.c.;3290
+C;33110;Repair of fabricated metal products;3311
+C;33120;Repair and maintenance of industrial machinery and equipment;3312
+C;33131;Repair and maintenance of the measuring, testing, navigating and control equipment;3313
+C;33132;Repair and maintenance of irradiation, electro medical and electrotherapeutic equipment;3313
+C;33133;Repair of optical instruments and photographic equipment;3313
+C;33140;Repair and maintenance of electrical equipment except domestic appliances;3314
+C;33150;Repair and maintenance of transport equipment except motorcycles and bicycles;3315
+C;33190;Repair and maintenance of other equipment n.e.c.;3319
+C;33200;Installation of industrial machinery and equipment;3320
+D;35101;Operation of generation facilities that produce electric energy;3510
+D;35102;Operation of transmission, distribution and sales of electricity;3510
+D;35201;Manufacture of gaseous fuels with a specified calorific value, by purification, blending and other processes from gases of various types including natural gas;3520
+D;35202;Transportation, distribution and supply of gaseous fuels of all kinds through a system of mains;3520
+D;35203;Sale of gas to the user through mains;3520
+D;35301;Production, collection and distribution of steam and hot water for heating, power and other purposes;3530
+D;35302;Production and distribution of cooled air, chilled water for cooling purposes;3530
+D;35303;Production of ice, including ice for food and non-food (e.g. cooling) purposes;3530
+E;36001;Purification and distribution of water for water supply purposes;3600
+E;36002;Desalting of sea or ground water to produce water as the principal product of interest;3600
+E;37000;Sewerage and similar activities;3700
+E;38111;Collection of non-hazardous solid waste (i.e. garbage) within a local area;3811
+E;38112;Collection of recyclable materials;3811
+E;38113;Collection of refuse in litter-bins in public places;3811
+E;38114;Collection of construction and demolition waste;3811
+E;38115;Operation of waste transfer stations for non-hazardous waste;3811
+E;38121;Collection of hazardous waste;3812
+E;38122;Operation of waste transfer stations for hazardous waste;3812
+E;38210;Treatment and disposal of non-hazardous waste;3821
+E;38220;Treatment and disposal of hazardous waste;3822
+E;38301;Mechanical crushing of metal waste;3830
+E;38302;Dismantling of automobiles, computers, televisions and other equipment for material recover;3830
+E;38303;Reclaiming of rubber such as used tires to produce secondary raw material;3830
+E;38304;Reuse of rubber products;3830
+E;38309;Materials recovery n.e.c.;3830
+E;39000;Remediation activities and other waste management servicesForm C 2012 Guidebook Self Assessment System;3900
+F;41001;Residential buildings;4100
+F;41002;Non-residential buildings;4100
+F;41003;Assembly and erection of prefabricated constructions on the site;4100
+F;41009;Construction of buildings n.e.c.;4100
+F;42101;Construction of motorways, streets, roads, other vehicular and pedestrian ways;4210
+F;42102;Surface work on streets, roads, highways, bridges or tunnels;4210
+F;42103;Construction of bridges, including those for elevated highways;4210
+F;42104;Construction of tunnels;4210
+F;42105;Construction of railways and subways;4210
+F;42106;Construction of airfield/airports runways;4210
+F;42109;Construction of roads and railways n.e.c.;4210
+F;42201;Long-distance pipelines, communication and power lines;4220
+F;42202;Urban pipelines, urban communication and power lines ancillary urban works;4220
+F;42203;Water main and line construction;4220
+F;42204;Reservoirs;4220
+F;42205;Construction of irrigation systems (canals);4220
+F;42206;Construction of sewer systems (including repair) and sewage disposal plants;4220
+F;42207;Construction of power plants;4220
+F;42209;Construction of utility projects n.e.c.;4220
+F;42901;Construction of refineries;4290
+F;42902;Construction of waterways, harbour and river works, pleasure ports (marinas), locks;4290
+F;42903;Construction of dams and dykes;4290
+F;42904;Dredging of waterways;4290
+F;42905;Outdoor sports facilities;4290
+F;42906;Land subdivision with land improvement;4290
+F;42909;Construction of other engineering projects n.e.c.;4290
+F;43110;Demolition or wrecking of buildings and other structures;4311
+F;43121;Clearing of building sites;4312
+F;43122;Earth moving;4312
+F;43123;Drilling, boring and core sampling for construction, geophysical, geological or similar purposes;4312
+F;43124;Site preparation for mining;4312
+F;43125;Drainage of agricultural or forestry land;4312
+F;43126;Land reclamation work;4312
+F;43129;Other site preparation activities n.e.c.;4312
+F;43211;Electrical wiring and fittings;4321
+F;43212;Telecommunications wiring;4321
+F;43213;Computer network and cable television wiring;4321
+F;43214;Satellite dishes;4321
+F;43215;Lighting systems;4321
+F;43216;Security systems;4321
+F;43219;Electrical installation n.e.c.;4321
+F;43221;Installation of heating systems (electric, gas and oil)Form C 2012 Guidebook Self Assessment System;4322
+F;43222;Installation of furnaces, cooling towers;4322
+F;43223;Installation of non-electric solar energy collectors;4322
+F;43224;Installation of plumbing and sanitary equipment;4322
+F;43225;Installation of ventilation, refrigeration or air-conditioning equipment and ducts;4322
+F;43226;Installation of gas fittings;4322
+F;43227;Installation of fire and lawn sprinkler systems;4322
+F;43228;Steam piping;4322
+F;43229;Plumbing, heat and air-conditioning installation n.e.c.;4322
+F;43291;Installation of elevators, escalators in buildings or other construction projects;4329
+F;43292;Installation of automated and revolving doors in buildings or other construction projects;4329
+F;43293;Installation of lighting conductors in buildings or other construction projects;4329
+F;43294;Installation vacuum cleaning systems in buildings or other construction projects;4329
+F;43295;Installation thermal, sound or vibration insulation in buildings or other construction projects;4329
+F;43299;Other construction installation n.e.c.;4329
+F;43301;Installation of doors, windows, door and window frames of wood or other materials, fitted kitchens, staircases, shop fittings and furniture;4330
+F;43302;Laying, tiling, hanging or fitting in buildings or other construction projects of various types of materials;4330
+F;43303;Interior and exterior painting of buildings;4330
+F;43304;Painting of civil engineering structures;4330
+F;43305;Installation of glass, mirrors;4330
+F;43306;Interior completion;4330
+F;43307;Cleaning of new buildings after construction;4330
+F;43309;Other building completion and finishing work n.e.c.;4330
+F;43901;Construction of foundations, including pile driving;4390
+F;43902;Erection of non-self-manufactured steel elements;4390
+F;43903;Scaffolds and work platform erecting and dismantling;4390
+F;43904;Bricklaying and stone setting;4390
+F;43905;Construction of outdoor swimming pools;4390
+F;43906;Steam cleaning, sand blasting and similar activities for building exteriors;4390
+F;43907;Renting of construction machinery and equipment with operator (e.g. cranes);4390
+F;43909;Other specialized construction activities, n.e.c.;4390
+G;45101;Wholesale and retail of new motor vehicles;4510
+G;45102;Wholesale and retail of used motor vehicles;4510
+G;45103;Sale of industrial, commercial and agriculture vehicles – new;4510
+G;45104;Sale of industrial, commercial and agriculture vehicles – used;4510
+G;45105;Sale by commission agents;4510
+G;45106;Car auctions;4510
+G;45109;Sale of other motor vehicles n.e.c.;4510
+G;45201;Maintenance and repair of motor vehicles;4520
+G;45202;Spraying and painting;4520
+G;45203;Washing and polishing (car wash);4520
+G;45204;Repair of motor vehicle seats;4520
+G;45205;Installation of parts and accessories not as part of the manufacturing processForm C 2012 Guidebook Self Assessment System;4520
+G;45300;Wholesale and retail sale of all kinds of parts, components, supplies, tools and accessories for motor vehicles;4530
+G;45401;Wholesale and retail sale of motorcycles;4540
+G;45402;Wholesale and retail sale of parts and accessories for motorcycles;4540
+G;45403;Repair and maintenance of motorcycles;4540
+G;46100;Wholesale on a fee or contract basis;4610
+G;46201;Wholesale of rubber;4620
+G;46202;Wholesale of palm oil;4620
+G;46203;Wholesale of lumber and timber;4620
+G;46204;Wholesale of flowers and plants;4620
+G;46205;Wholesale of livestock;4620
+G;46209;Wholesale of agricultural raw material and live animal n.e.c.;4620
+G;46311;Wholesale of meat, poultry and eggs;4631
+G;46312;Wholesale of fish and other seafood;4631
+G;46313;Wholesale of fruits;4631
+G;46314;Wholesale of vegetables;4631
+G;46319;Wholesale of meat, fish, fruits and vegetables n.e.c.;4631
+G;46321;Wholesale of rice, other grains, flour and sugars;4632
+G;46322;Wholesale of dairy products;4632
+G;46323;Wholesale of confectionary;4632
+G;46324;Wholesale of biscuits, cakes, breads and other bakery products;4632
+G;46325;Wholesale of coffee, tea, cocoa and other beverages;4632
+G;46326;Wholesale of beer, wine and spirits;4632
+G;46327;Wholesale of tobacco, cigar, cigarettes;4632
+G;46329;Wholesale of other foodstuffs;4632
+G;46411;Wholesale of yarn and fabrics;4641
+G;46412;Wholesale of household linen, towels, blankets;4641
+G;46413;Wholesale of clothing;4641
+G;46414;Wholesale of clothing accessories;4641
+G;46415;Wholesale of fur articles;4641
+G;46416;Wholesale of footwear;4641
+G;46417;Wholesale of haberdashery;4641
+G;46419;Wholesale of textiles, clothing n.e.c.;4641
+G;46421;Wholesale of pharmaceutical and medical goods;4642
+G;46422;Wholesale of perfumeries, cosmetics, soap and toiletries;4642
+G;46431;Wholesale of bicycles and their parts and accessories;4643
+G;46432;Wholesale of photographic and optical goods;4643
+G;46433;Wholesale of leather goods and travel accessories;4643
+G;46434;Wholesale of musical instruments, games and toys, sports goods;4643
+G;46441;Wholesale of handicrafts and artificial flowers;4644
+G;46442;Wholesale of cut flowers and plants;4644
+G;46443;Wholesale of watches and clocks;4644
+G;46444;Wholesale of jewellery;4644
+G;46491;Wholesale of household furniture;4649
+G;46492;Wholesale of household appliancesForm C 2012 Guidebook Self Assessment System;4649
+G;46493;Wholesale of lighting equipment;4649
+G;46494;Wholesale of household utensils and cutlery, crockery, glassware, chinaware and pottery;4649
+G;46495;Wholesale of woodenware, wickerwork and corkware;4649
+G;46496;Wholesale of electrical and electronic goods;4649
+G;46497;Wholesale of stationery, books, magazines and newspapers;4649
+G;46499;Wholesale of other household goods n.e.c.;4649
+G;46510;Wholesale of computer hardware, software and peripherals;4651
+G;46521;Wholesale of telephone and telecommunications equipment, cell phones, pagers;4652
+G;46522;Wholesale of electronic components and wiring accessories;4652
+G;46531;Wholesale of agricultural machinery, equipment and supplies;4653
+G;46532;Wholesale of lawn mowers however operated;4653
+G;46591;Wholesale of office machinery and business equipment, except computers and computer peripheral equipment;4659
+G;46592;Wholesale of office furniture;4659
+G;46593;Wholesale of computer-controlled machines tools;4659
+G;46594;Wholesale of industrial machinery, equipment and supplies;4659
+G;46595;Wholesale of construction and civil engineering machinery and equipment;4659
+G;46596;Wholesale of lift escalators, air-conditioning, security and fire fighting equipment;4659
+G;46599;Wholesale of other machinery for use in industry, trade and navigation and other services n.e.c.;4659
+G;46611;Wholesale of petrol, diesel, lubricants;4661
+G;46612;Wholesale of liquefied petroleum gas;4661
+G;46619;Wholesale of other solid, liquid and gaseous fuels and related products n.e.c.;4661
+G;46621;Wholesale of ferrous and non-ferrous metal ores and metals;4662
+G;46622;Wholesale of ferrous and non-ferrous semi-finished metal ores and products n.e.c.;4662
+G;46631;Wholesale of logs, sawn timber, plywood, veneer and related products;4663
+G;46632;Wholesale of paints and varnish;4663
+G;46633;Wholesale of construction materials;4663
+G;46634;Wholesale of fittings and fixtures;4663
+G;46635;Wholesale of hot water heaters;4663
+G;46636;Wholesale of sanitary installation and equipment;4663
+G;46637;Wholesale of tools;4663
+G;46639;Wholesale of other construction materials, hardware, plumbing and heating equipment and;4663
+G;46691;Wholesale of industrial chemicals;4669
+G;46692;Wholesale of fertilizers and agrochemical products;4669
+G;46693;Wholesale of plastic materials in primary forms;4669
+G;46694;Wholesale of rubber scrap;4669
+G;46695;Wholesale of textile fibres;4669
+G;46696;Wholesale of paper in bulk, packaging materials;4669
+G;46697;Wholesale of precious stones;4669
+G;46698;Wholesale of metal and non-metal waste and scrap and materials for recycling;4669
+G;46699;Dismantling of automobiles, computer, televisions and other equipment to obtain and re-sell usable parts;4669
+G;46901;Wholesale of aquarium fishes, pet birds and animals;4690
+G;46902;Wholesale of animal/pet food;4690
+G;46909;Wholesale of a variety of goods without any particular specialization n.e.c.;4690
+G;47111;Provision storesForm C 2012 Guidebook Self Assessment System;4711
+G;47112;Supermarket;4711
+G;47113;Mini market;4711
+G;47114;Convenience stores;4711
+G;47191;Department stores;4719
+G;47192;Department stores and supermarket;4719
+G;47193;Hypermarket;4719
+G;47194;News agent and miscellaneous goods store;4719
+G;47199;Other retail sale in non-specialized stores n.e.c.;4719
+G;47211;Retail sale of rice, flour, other grains and sugars;4721
+G;47212;Retail sale of fresh or preserved vegetables and fruits;4721
+G;47213;Retail sale of dairy products and eggs;4721
+G;47214;Retail sale of meat and meat products (including poultry);4721
+G;47215;Retail sale of fish, other seafood and products thereof;4721
+G;47216;Retail sale of bakery products and sugar confectionery;4721
+G;47217;Retail sale of mee, kuey teow, mee hoon, wantan skins and other food products made from flour or soya;4721
+G;47219;Retail sale of other food products n.e.c.;4721
+G;47221;Retail sale of beer, wine and spirits;4722
+G;47222;Retail sale of tea, coffee, soft drinks, mineral water and other beverages;4722
+G;47230;Retail sale of tobacco products in specialized store;4723
+G;47300;Retail sale of automotive fuel in specialized stores;4730
+G;47411;Retail sale of computers, computer equipment and supplies;4741
+G;47412;Retail sale of video game consoles and non-customized software;4741
+G;47413;Retail sale of telecommunication equipment;4741
+G;47420;Retail sale of audio and video equipment in specialized store;4742
+G;47510;Retail sale of textiles in specialized stores;4751
+G;47520;Retail sale of construction materials, hardware, paints and glass;4752
+G;47531;Retail sale of carpets and rugs;4753
+G;47532;Retail sale of curtains and net curtains;4753
+G;47533;Retail sale of wallpaper and floor coverings;4753
+G;47591;Retail sale of household furniture;4759
+G;47592;Retail sale of articles for lighting;4759
+G;47593;Retail sale of household utensils and cutlery, crockery, glassware, chinaware and pottery;4759
+G;47594;Retail sale of wood, cork goods and wickerwork goods;4759
+G;47595;Retail sale of household appliances;4759
+G;47596;Retail sale of musical instruments and scores;4759
+G;47597;Retail sale of security systems;4759
+G;47598;Retail sale of household articles and equipment n.e.c.;4759
+G;47611;Retail sale of office supplies and equipment;4761
+G;47612;Retail sale of books, newspapers and stationary;4761
+G;47620;Retail sale of musical records, audio tapes, compact discs , cassettes, video tapes, VCDs and DVDs, blank tapes and discs;4762
+G;47631;Retail sale of sports goods and equipments;4763
+G;47632;Retail sale of fishing equipment;4763
+G;47633;Retail sale of camping goods;4763
+G;47634;Retail sale of boats and equipments;4763
+G;47635;Retail sale of bicycles and related parts and accessories;4763
+G;47640;Retail sale of games and toys, made of all materialsForm C 2012 Guidebook Self Assessment System;4764
+G;47711;Retail sale of articles of clothing, articles of fur and clothing accessories;4771
+G;47712;Retail sale of footwear;4771
+G;47713;Retail sale of leather goods, accessories of leather and leather substitutes;4771
+G;47721;Stores specialized in retail sale of pharmaceuticals, medical and orthopaedic goods;4772
+G;47722;Stores specialized in retail sale of perfumery, cosmetic and toilet articles;4772
+G;47731;Retail sale of photographic and precision equipment;4773
+G;47732;Retail sale of watches and clocks;4773
+G;47733;Retail sale of jewellery;4773
+G;47734;Retail sale of flowers, plants, seeds, fertilizers;4773
+G;47735;Retail sale of souvenirs, craftwork and religious articles;4773
+G;47736;Retail sale of household fuel oil, cooking gas, coal and fuel wood;4773
+G;47737;Retail sale of spectacles and other optical goods;4773
+G;47738;Retail sale of aquarium fishes, pet animals and pet food;4773
+G;47739;Other retail sale of new goods in specialized stores n.e.c.;4773
+G;47741;Retail sale of second-hand books;4774
+G;47742;Retail sale of second-hand electrical and electronic goods;4774
+G;47743;Retail sale of antiques;4774
+G;47744;Activities of auctioning houses (retail);4774
+G;47749;Retail sale of second-hand goods n.e.c.;4774
+G;47810;Retail sale of food, beverages and tobacco products via stalls or markets;4781
+G;47820;Retail sale of textiles, clothing and footwear via stalls or markets;4782
+G;47891;Retail sale of carpets and rugs via stalls or markets;4789
+G;47892;Retail sale of books via stalls or markets;4789
+G;47893;Retail sale of games and toys via stalls or markets;4789
+G;47894;Retail sale of household appliances and consumer electronics via stall or markets;4789
+G;47895;Retail sale of music and video recordings via stall or markets;4789
+G;47911;Retail sale of any kind of product by mail order;4791
+G;47912;Retail sale of any kind of product over the Internet;4791
+G;47913;Direct sale via television, radio and telephone;4791
+G;47914;Internet retail auctions;4791
+G;47991;Retail sale of any kind of product by direct sales or door-to-door sales persons;4799
+G;47992;Retail sale of any kind of product through vending machines;4799
+G;47999;Other retail sale not in stores, stalls or markets n.e.c.;4799
+H;49110;Passenger transport by inter-urban railways;4911
+H;49120;Freight transport by inter-urban, suburban and urban railways;4912
+H;49211;City bus services;4921
+H;49212;Urban and suburban railway passenger transport service;4921
+H;49221;Express bus services;4922
+H;49222;Employees bus services;4922
+H;49223;School bus services;4922
+H;49224;Taxi operation and limousine services;4922
+H;49225;Rental of cars with driver;4922
+H;49229;Other passenger land transport n.e.c.;4922
+H;49230;Freight transport by roadForm C 2012 Guidebook Self Assessment System;4923
+H;49300;Transport via pipeline;4930
+H;50111;Operation of excursion, cruise or sightseeing boats;5011
+H;50112;Operation of ferries, water taxis;5011
+H;50113;Rental of pleasure boats with crew for sea and coastal water transport;5011
+H;50121;Transport of freight overseas and coastal waters, whether scheduled or not;5012
+H;50122;Transport by towing or pushing of barges, oil rigs;5012
+H;50211;Transport of passenger via rivers, canals, lakes and other inland waterways;5021
+H;50212;Rental of pleasure boats with crew for inland water transport;5021
+H;50220;Transport of freight via rivers, canals, lakes and other inland waterways;5022
+H;51101;Transport of passengers by air over regular routes and on regular schedules;5110
+H;51102;Non-scheduled transport of passenger by air;5110
+H;51103;Renting of air-transport equipment with operator for the purpose of passenger transportation;5110
+H;51201;Transport freight by air over regular routes and on regular schedules;5120
+H;51202;Non-scheduled transport of freight by air;5120
+H;51203;Renting of air-transport equipment with operator for the purpose of freight transportation;5120
+H;52100;Warehousing and storage services;5210
+H;52211;Operation of terminal facilities;5221
+H;52212;Towing and road side assistance;5221
+H;52213;Operation of parking facilities for motor vehicles (parking lots);5221
+H;52214;Highway, bridge and tunnel operation services;5221
+H;52219;Other service activities incidental to land transportation n.e.c.;5221
+H;52221;Port, harbours and piers operation services;5222
+H;52222;Vessel salvage and refloating services;5222
+H;52229;Other service activities incidental to water transportation n.e.c.;5222
+H;52231;Operation of terminal facilities;5223
+H;52232;Airport and air-traffic-control activities;5223
+H;52233;Ground service activities on airfields;5223
+H;52234;Fire fighting and fire-prevention services at airports;5223
+H;52239;Other service activities incidental to air transportation n.e.c.;5223
+H;52241;Stevedoring services;5224
+H;52249;Other cargo handling activities n.e.c.;5224
+H;52291;Forwarding of freight;5229
+H;52292;Brokerage for ship and aircraft space;5229
+H;52299;Other transportation support activities n.e.c.;5229
+H;53100;National postal services;5310
+H;53200;Courier activities other than national post activities;5320
+I;55101;Hotels and resort hotels;5510
+I;55102;MotelsForm C 2012 Guidebook Self Assessment System;5510
+I;55103;Apartment hotels;5510
+I;55104;Chalets;5510
+I;55105;Rest house/guest house;5510
+I;55106;Bed and breakfast units;5510
+I;55107;Hostels;5510
+I;55108;Home stay;5510
+I;55109;Other short term accommodation activities n.e.c.;5510
+I;55200;Camping grounds, recreational vehicle parks and trailer parks;5520
+I;55900;Other accommodation;5590
+I;56101;Restaurants and restaurant cum night clubs;5610
+I;56102;Cafeterias/canteens;5610
+I;56103;Fast-food restaurants;5610
+I;56104;Ice cream truck vendors and parlours;5610
+I;56105;Mobile food carts;5610
+I;56106;Food stalls/hawkers;5610
+I;56107;Food or beverage, food and beverage preparation in market stalls/hawkers;5610
+I;56210;Event/food caterers;5621
+I;56290;Other food service activities;5629
+I;56301;Pubs, bars, discotheques, coffee houses, cocktail lounges and karaoke;5630
+I;56302;Coffee shops;5630
+I;56303;Drink stalls/hawkers;5630
+I;56304;Mobile beverage;5630
+I;56309;Others drinking places n.e.c.;5630
+J;58110;Publishing of books, brochures and other publications;5811
+J;58120;Publishing of mailing lists, telephone book, other directories;5812
+J;58130;Publishing of newspapers, journals, magazines and periodicals in print or electronic form;5813
+J;58190;Publishing of catalogues, photos, engraving and postcards, greeting cards, forms, posters, reproduction of works of art, advertising material and other printed matter n.e.c.;5819
+J;58201;Business and other applications;5820
+J;58202;Computer games for all platforms;5820
+J;58203;Operating systems;5820
+J;59110;Motion picture, video and television programme production activities;5911
+J;59120;Motion picture, video and television programme post-production activities;5912
+J;59130;Motion picture, video and television programme distribution activities;5913
+J;59140;Motion picture projection activities;5914
+J;59200;Sound recording and music publishing activities;5920
+J;60100;Radio broadcasting;6010
+J;60200;Television programming and broadcasting activities;6020
+J;61101;Wired telecommunications services;6110
+J;61102;Internet access providers by the operator of the wired infrastructure;6110
+J;61201;Wireless telecommunications services;6120
+J;61202;Internet access providers by the operator of the wireless infrastructure;6120
+J;61300;Satellite telecommunications services;6130
+J;61901;Provision of Internet access over networks between the client and the ISP not owned or controlled by the ISP;6190
+J;61902;Provision of telecommunications services over existing telecom connection;6190
+J;61903;Telecommunications resellers;6190
+J;61904;Provision of telecommunications services over existing telecom connections VOIP (Voice Over;6190
+J;61905;Provision of specialized telecommunications applications;6190
+J;61909;Other telecommunications activities n.e.c.;6190
+J;62010;Computer programming activities;6201
+J;62021;Computer consultancy;6202
+J;62022;Computer facilities management activities;6202
+J;62091;Information Communication Technology (ICT) system security;6209
+J;62099;Other information technology service activities n.e.c.;6209
+J;63111;Activities of providing infrastructure for hosting, data processing services and related activities;6311
+J;63112;Data processing activities;6311
+J;63120;Web portals;6312
+J;63910;News syndicate and news agency activities;6391
+J;63990;Other information service activities n.e.c.;6399
+K;64110;Central banking;6411
+K;64191;Commercial Banks;6419
+K;64192;Islamic Banks;6419
+K;64193;Offshore Banks;6419
+K;64194;Investment Banks;6419
+K;64195;Development financial institutions (with deposit taking functions);6419
+K;64199;Other monetary intermediation (with deposit taking functions) n.e.c.;6419
+K;64200;Activities of holding companies;6420
+K;64301;Venture capital companies;6430
+K;64302;Unit trust fund excludes REITs;6430
+K;64303;Property unit trust (REITs);6430
+K;64304;Other administration of trusts accounts;6430
+K;64309;Trusts, funds and similar financial entities n.e.c.;6430
+K;64910;Financial leasing activities;6491
+K;64921;Development financial institutions (without deposit taking functions);6492
+K;64922;Credit card servicesForm C 2012 Guidebook Self Assessment System;6492
+K;64923;Licensed money lending activities;6492
+K;64924;Pawnshops and pawnbrokers includes Ar-Rahnu;6492
+K;64925;Co-operative with credits functions;6492
+K;64929;Other credit granting n.e.c.;6492
+K;64991;Factoring companies;6499
+K;64992;Representative office of foreign banks;6499
+K;64993;Nominee companies;6499
+K;64999;Other financial service activities, except insurance/takaful and pension funding n.e.c.;6499
+K;65111;Life insurance;6511
+K;65112;Family takaful;6511
+K;65121;General insurance;6512
+K;65122;General takaful;6512
+K;65123;Composite insurance;6512
+K;65124;Offshore insurance;6512
+K;65125;Offshore takaful;6512
+K;65201;Life reinsurance;6520
+K;65202;Family retakaful;6520
+K;65203;General reinsurance;6520
+K;65204;General retakaful;6520
+K;65205;Composite retakaful;6520
+K;65206;Offshore reinsurance;6520
+K;65207;Offshore retakaful;6520
+K;65301;Pension funding;6530
+K;65302;Provident funding;6530
+K;66111;Stock exchanges;6611
+K;66112;Exchanges for commodity contracts;6611
+K;66113;Securities exchange;6611
+K;66114;Exchanges for commodity futures contracts;6611
+K;66119;Administration of financial markets n.e.c.;6611
+K;66121;Stock, share and bond brokers;6612
+K;66122;Commodity brokers and dealers;6612
+K;66123;Gold bullion dealers;6612
+K;66124;Foreign exchange broker and dealers (Bureaux de change);6612
+K;66125;Money-changing services;6612
+K;66129;Other financial and commodity futures brokers and dealers;6612
+K;66191;Investment advisory services;6619
+K;66192;Financial consultancy services;6619
+K;66199;Activities auxiliary to finance n.e.c.;6619
+K;66211;Insurance adjusting service;6621
+K;66212;Takaful adjusting service;6621
+K;66221;Insurance agents;6622
+K;66222;Takaful agentsForm C 2012 Guidebook Self Assessment System;6622
+K;66223;Insurance brokers;6622
+K;66224;Takaful brokers;6622
+K;66290;Other activities auxiliary to insurance, takaful and pension funding;6629
+K;66301;Management of pension funds;6630
+K;66302;Assets/portfolio management;6630
+K;66303;Unit trust management companies;6630
+L;68101;Buying, selling, renting and operating of self-owned or leased real estate – residential buildings;6810
+L;68102;Buying, selling, renting and operating of self-owned or leased real estate – non-residential buildings;6810
+L;68103;Buying, selling, renting and operating of self-owned or leased real estate – land;6810
+L;68104;Development of building projects for own operation, i.e. for renting of space in these buildings;6810
+L;68109;Real estate activities with own or leased property n.e.c.;6810
+L;68201;Activities of real estate agents and brokers for buying, selling and renting of real estate;6820
+L;68202;Management of real estate on a fee or contract basis;6820
+L;68203;Appraisal services for real estate;6820
+L;68209;Real estate activities on a fee or contract basis n.e.c.;6820
+M;69100;Legal activities;6910
+M;69200;Accounting, bookkeeping and auditing activities tax consultancy;6920
+M;70100;Activities of head offices;7010
+M;70201;Business management consultancy services;7020
+M;70202;Human resource consultancy services;7020
+M;70203;Consultancy services in public relation and communications;7020
+M;70209;Other management consultancy activities n.e.c;7020
+M;71101;Architectural services;7110
+M;71102;Engineering services;7110
+M;71103;Land surveying services;7110
+M;71109;Other architectural and engineering activities and related technical consultancy n.e.c.;7110
+M;71200;Technical testing and analysis;7120
+M;72101;Research and development on natural sciences;7210
+M;72102;Research and development on engineering and technology;7210
+M;72103;Research and development on medical sciences;7210
+M;72104;Research and development on biotechnology;7210
+M;72105;Research and development on agricultural sciences;7210
+M;72106;Research and development on Information Communication Technology (ICT);7210
+M;72109;Research and development on other natural science and engineering n.e.c.;7210
+M;72201;Research and development on social sciences;7220
+M;72202;Research and development on humanities;7220
+M;72209;Research and development of other social sciences and humanities n.e.c.Form C 2012 Guidebook Self Assessment System;7220
+M;73100;Advertising;7310
+M;73200;Market research and public opinion polling;7320
+M;74101;Activities of interior decorators;7410
+M;74102;Services of graphic designers;7410
+M;74103;Fashion design services;7410
+M;74109;Specialized design activities n.e.c.;7410
+M;74200;Photographic activities;7420
+M;74901;Translation and interpretation activities;7490
+M;74902;Business brokerage activities;7490
+M;74903;Security consulting;7490
+M;74904;Activities of quantity surveyors;7490
+M;74905;Activities of consultants other than architecture, engineering and management consultants;7490
+M;74909;Any other professional, scientific and technical activities n.e.c.;7490
+M;75000;VETERINARY ACTIVITIES;7500
+N;77101;Renting and operational leasing of passenger cars (without driver);7710
+N;77102;Renting and operational leasing of trucks, utility trailers and recreational vehicles;7710
+N;77211;Renting and leasing of pleasure boats, canoes, sailboats;7721
+N;77212;Renting and leasing of bicycles;7721
+N;77213;Renting and leasing of beach chairs and umbrellas;7721
+N;77219;Renting and leasing of other sports equipment n.e.c.;7721
+N;77220;Renting of video tapes, records, CDs, DVDs;7722
+N;77291;Renting and leasing of textiles, wearing apparel and footwear;7729
+N;77292;Renting and leasing of furniture, pottery and glass, kitchen and tableware, electrical appliances and house wares;7729
+N;77293;Renting and leasing of jewellery, musical instruments, scenery and costumes;7729
+N;77294;Renting and leasing of books, journals and magazines;7729
+N;77295;Renting and leasing of machinery and equipment used by amateurs or as a hobby;7729
+N;77296;Renting of flowers and plants;7729
+N;77297;Renting and leasing of electronic equipment for household use;7729
+N;77299;Renting and leasing of other personal and household goods n.e.c.;7729
+N;77301;Renting and operational leasing, without operator, of other machinery and equipment that are generally used as capital goods by industries;7730
+N;77302;Renting and operational leasing of land-transport equipment (other than motor vehicles) without drivers;7730
+N;77303;Renting and operational leasing of water-transport equipment without operator;7730
+N;77304;Renting and operational leasing of air transport equipment without operator;7730
+N;77305;Renting and operational leasing of agricultural and forestry machinery and equipment without operator;7730
+N;77306;Renting and operational leasing of construction and civil-engineering machinery and equipment without operator;7730
+N;77307;Rental and operational leasing of office machinery and equipment without operator;7730
+N;77309;Renting and leasing of other machinery, equipment and tangible goods n.e.c.;7730
+N;77400;Leasing of intellectual property and similar products, except copyrighted worksForm C 2012 Guidebook Self Assessment System;7740
+N;78100;Activities of employment placement agencies;7810
+N;78200;Temporary employment agency activities;7820
+N;78300;Provision of human resources for client businesses;7830
+N;79110;Travel agency activities;7911
+N;79120;Tour operator activities;7912
+N;79900;Other reservation service and related activities;7990
+N;80100;Private security activities;8010
+N;80200;Security systems service activities;8020
+N;80300;Investigation and detective activities;8030
+N;81100;Combined facilities support activities;8110
+N;81210;General cleaning of buildings;8121
+N;81291;Cleaning of buildings of all types;8129
+N;81292;Swimming pool cleaning and maintenance services;8129
+N;81293;Cleaning of industrial machinery;8129
+N;81294;Cleaning of trains, buses, planes;8129
+N;81295;Cleaning of pest control services not in connection with agriculture;8129
+N;81296;Disinfecting and exterminating activities;8129
+N;81297;Cleaning of sea tankers;8129
+N;81299;Other building and industrial cleaning activities, n.e.c.;8129
+N;81300;Landscape care and maintenance service activities;8130
+N;82110;Combined office administrative service activities;8211
+N;82191;Document preparation, editing and/or proofreading;8219
+N;82192;Typing, word processing or desktop publishing;8219
+N;82193;Secretarial support services;8219
+N;82194;Transcription of documents and other secretarial services;8219
+N;82195;Provision of mailbox rental and other postal and mailing services;8219
+N;82196;Photocopying, duplicating, blueprinting;8219
+N;82199;Photocopying, document preparation and other specialized office support activities n.e.c.;8219
+N;82200;Activities of call centres;8220
+N;82301;Organization, promotions and/or management of event;8230
+N;82302;Meeting, incentive, convention, exhibition (MICE);8230
+N;82910;Activities of collection agencies and credit bureaus;8291
+N;82920;Packaging activities on a fee or contract basis, whether or not these involve an automated process;8292
+N;82990;Other business support service activities n.e.c.;8299
+O;84111;General (overall) public administration activities;8411
+O;84112;Ancillary service activities for the government as a wholeForm C 2012 Guidebook Self Assessment System;8411
+O;84121;Administrative educational services;8412
+O;84122;Administrative health care services;8412
+O;84123;Administrative housing and local government services;8412
+O;84124;Administrative recreational, cultural, arts and sports services;8412
+O;84125;Administrative religious affairs services;8412
+O;84126;Administrative welfare services;8412
+O;84129;Other community and social affairs services;8412
+O;84131;Domestic and international trade affairs;8413
+O;84132;Agriculture and rural development affairs;8413
+O;84133;Primary industries affairs;8413
+O;84134;Public works affairs;8413
+O;84135;Transport affairs;8413
+O;84136;Energy, telecommunication and postal affairs;8413
+O;84137;Tourism affairs;8413
+O;84138;Human resource affairs;8413
+O;84139;Other regulation of and contribution to more efficient operation of businesses n.e.c.;8413
+O;84210;Foreign affairs;8421
+O;84220;Military and civil defence services;8422
+O;84231;Police service;8423
+O;84232;Prison service;8423
+O;84233;Immigration service;8423
+O;84234;National registration service;8423
+O;84235;Judiciary and legal service;8423
+O;84236;Firefighting and fire prevention;8423
+O;84239;Other public order and safety affairs related services;8423
+O;84300;Compulsory social security activities e.g. SOCSO;8430
+P;85101;Pre-primary education (Public);8510
+P;85102;Pre-primary education (Private);8510
+P;85103;Primary education (Public);8510
+P;85104;Primary education (Private);8510
+P;85211;General school secondary education (Public);8521
+P;85212;General school secondary education (Private);8521
+P;85221;Technical and vocational education below the level of higher education (Public);8522
+P;85222;Technical and vocational education below the level of higher education (Private);8522
+P;85301;College and university education (Public);8530
+P;85302;College and university education (Private);8530
+P;85411;Sports instruction;8541
+P;85412;Martial arts instruction;8541
+P;85419;Any other sports and recreation education n.e.c;8541
+P;85421;Music and dancing school;8542
+P;85429;Any other cultural education n.e.c.;8542
+P;85491;Tuition centre;8549
+P;85492;Driving school;8549
+P;85493;Religious instruction;8549
+P;85494;Computer trainingForm C 2012 Guidebook Self Assessment System;8549
+P;85499;Others education n.e.c;8549
+P;85500;Educational support services for provision of non-instructional services;8550
+Q;86101;Hospital activities;8610
+Q;86102;Maternity home services (outside hospital);8610
+Q;86201;General medical services;8620
+Q;86202;Specialized medical services;8620
+Q;86203;Dental services;8620
+Q;86901;Dialysis Centres;8690
+Q;86902;Medical laboratories;8690
+Q;86903;Physiotherapy and occupational therapy service;8690
+Q;86904;Acupuncture services;8690
+Q;86905;Herbalist and homeopathy services;8690
+Q;86906;Ambulance services;8690
+Q;86909;Other human health services n.e.c.;8690
+Q;87101;Homes for the elderly with nursing care;8710
+Q;87102;Nursing homes;8710
+Q;87103;Palliative or hospices;8710
+Q;87201;Drug rehabilitation centres;8720
+Q;87209;Other residential care activities for mental retardation n.e.c.;8720
+Q;87300;Residential care activities for the elderly and disabled;8730
+Q;87901;Orphanages;8790
+Q;87902;Welfare homes services;8790
+Q;87909;Other residential care activities n.e.c.;8790
+Q;88101;Day-care activities for the elderly or for handicapped adults;8810
+Q;88109;Others social work activities without accommodation for the elderly and disabled;8810
+Q;88901;Counselling service;8890
+Q;88902;Child day-care activities;8890
+Q;88909;Other social work activities without accommodation n.e.c.;8890
+R;90001;Theatrical producer, singer group band and orchestra entertainment services;9000
+R;90002;Operation of concert and theatre halls and other arts facilities;9000
+R;90003;Activities of sculptors, painters, cartoonists, engravers, etchers;9000
+R;90004;Activities of individual writers, for all subjects;9000
+R;90005;Activities of independent journalists;9000
+R;90006;Restoring of works of art such as painting;9000
+R;90007;Activities of producers or entrepreneurs of arts live events, with or without facilities;9000
+R;90009;Creative, arts and entertainment activities n.e.c.Form C 2012 Guidebook Self Assessment System;9000
+R;91011;Documentation and information activities of libraries of all kinds;9101
+R;91012;Stock photo libraries and services;9101
+R;91021;Operation of museums of all kinds;9102
+R;91022;Operation of historical sites and buildings;9102
+R;91031;Operation of botanical and zoological gardens;9103
+R;91032;Operation of nature reserves, including wildlife preservation;9103
+R;92000;GAMBLING AND BETTING ACTIVITIES;9200
+R;93111;Football, hockey, cricket, baseball, badminton, futsal, paintball;9311
+R;93112;Racetracks for auto;9311
+R;93113;Equestrian clubs;9311
+R;93114;Swimming pools and stadiums, ice-skating arenas;9311
+R;93115;Track and field stadium;9311
+R;93116;Golf courses;9311
+R;93117;Bowling centre;9311
+R;93118;Fitness centres;9311
+R;93119;Organization and operation of outdoor or indoor sports events for professionals or amateurs by organizations with own facilities;9311
+R;93120;The operation of sports clubs such as football club, bowling club, swimming club;9312
+R;93191;Activities of producers or promoters of sports events, with or without facilities;9319
+R;93192;Activities of sports leagues and regulating bodies;9319
+R;93193;Activities of related to promotion of sporting events;9319
+R;93199;Other sports activities n.e.c.;9319
+R;93210;Activities of amusement parks and theme parks;9321
+R;93291;Activities of recreation parks and beaches;9329
+R;93292;Operation of recreational transport facilities;9329
+R;93293;Renting of leisure and pleasure equipment as an integral part of recreational facilities;9329
+R;93294;Operation of fairs and shows of a recreational nature;9329
+R;93295;Operation of discotheques and dance floors;9329
+R;93296;Activities of producers or entrepreneurs of live events other than arts or sports events, with or without facilities;9329
+R;93297;Cyber Café/Internet Centre;9329
+R;93299;Any other amusement and recreation activities n.e.c.;9329
+S;94110;Activities of business and employers membership organizations;9411
+S;94120;Activities of professional membership organizations;9412
+S;94200;Activities of trade unions;9420
+S;94910;Activities of religious organizations;9491
+S;94920;Activities of political organizations;9492
+S;94990;Activities of other membership organizations n.e.c.;9499
+S;95111;Repair of electronic equipment;9511
+S;95112;Repair and maintenance of computer terminals;9511
+S;95113;Repair and maintenance of hand-held computers (PDA's);9511
+S;95121;Repair and maintenance of cordless telephonesForm C 2012 Guidebook Self Assessment System;9512
+S;95122;Repair and maintenance of cellular phones;9512
+S;95123;Repair and maintenance of carrier equipment modems;9512
+S;95124;Repair and maintenance of fax machines;9512
+S;95125;Repair and maintenance of communications transmission equipment;9512
+S;95126;Repair and maintenance of two-way radios;9512
+S;95127;Repair and maintenance of commercial TV and video cameras;9512
+S;95211;Repair and maintenance of television, radio receivers;9521
+S;95212;Repair and maintenance of VCR/DVD/VCD;9521
+S;95213;Repair and maintenance of CD players;9521
+S;95214;Repair and maintenance of household-type video cameras;9521
+S;95221;Repair and servicing of household appliances;9522
+S;95222;Repair and servicing of home and garden equipment;9522
+S;95230;Repair of footwear and leather goods;9523
+S;95240;Repair of furniture and home furnishings;9524
+S;95291;Repair of bicycles;9529
+S;95292;Repair and alteration of clothing;9529
+S;95293;Repair and alteration of jewellery;9529
+S;95294;Repair of watches, clocks and their parts;9529
+S;95295;Repair of sporting goods;9529
+S;95296;Repair of musical instruments;9529
+S;95299;Repair of other personal and household goods n.e.c.;9529
+S;96011;Laundering and dry-cleaning, pressing;9601
+S;96012;Carpet and rug shampooing, and drapery and curtain cleaning, whether on clients' premises or not;9601
+S;96013;Provision of linens, work uniforms and related items by laundries;9601
+S;96014;Diaper supply services;9601
+S;96020;Hairdressing and other beauty treatment;9602
+S;96031;Preparing the dead for burial or cremation and embalming and morticians' services;9603
+S;96032;Providing burial or cremation services;9603
+S;96033;Rental of equipped space in funeral parlours;9603
+S;96034;Rental or sale of graves;9603
+S;96035;Maintenance of graves an d mausoleums;9603
+S;96091;Activities of sauna, steam baths, massage salons;9609
+S;96092;Astrological and spiritualists' activities;9609
+S;96093;Social activities such as escort services, dating services, services of marriage bureaux;9609
+S;96094;Pet care services;9609
+S;96095;Genealogical organizations;9609
+S;96096;Shoe shiners, porters, valet car parkers;9609
+S;96097;Concession operation of coin-operated personal service machines;9609
+S;96099;Other service activities n.e.c.;9609
+T;97000;Activities of households as employers of domestic personnel;9700
+T;98100;Undifferentiated goods-producing activities of private households for own use;9810
+T;98200;Undifferentiated service-producing activities of private households for own use;9820
+U;99000;Activities of extraterritorial organization and bodies;9900
