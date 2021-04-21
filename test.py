@@ -1,9 +1,8 @@
 import requests
 
-#r = requests.get("https://siccode.com/search-isic/0141")
-#response = r.text
-#responseFile = open("test.txt", 'w', encoding="utf-8")
-#responseFile.write(response)
+from bs4 import BeautifulSoup
+
+import re
 
 def retrieve_input_isic_codes() -> list: 
     inputFile = open("Input.csv", 'r')
@@ -16,14 +15,21 @@ def retrieve_input_isic_codes() -> list:
     return isicCodes 
 
 def search_isic_code(isicCode: str) -> str:
-    params = {"isicCode" : isicCode}
-    r = requests.get("https://siccode.com/search-isic", params = params)
+    isicCode = isicCode.strip()
+    r = requests.get("https://siccode.com/search-isic/" + isicCode)
     response = r.text
     return response
+
+def search_isic_link(searchIsicPageResult: str) -> str:
+    soup = BeautifulSoup(searchIsicPageResult, 'html.parser')
+    isicLink = soup.find(href = re.compile("^https://siccode.com/isic-code/[0-9]*/.*"))
+    hrefContent = isicLink.find("a")
+    print(hrefContent)
+
 
 isicCodes = retrieve_input_isic_codes()
 
 for isicCode in isicCodes:
-    response = search_isic_code(isicCode) 
-    print(response)
+    response = search_isic_code(isicCode)
+    search_isic_link(response)
 
