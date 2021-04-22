@@ -42,9 +42,15 @@ for isicCode in isicCodes:
     sicList = []
     for span in smallLink.find_all('span'):
         sicList.append(span.text)
-    d = dict()
-    d[isicCode] = sicList
-    print(d)
+    sicList = [w.replace('- ', '') for w in sicList]
+    x = len(sicList) - 1
+    for i in range(0, x, 2):
+        f = open("sic.csv", "a")
+        f.write(isicCode + ';' + sicList[i] + ';' + sicList[i + 1] + '\n')
+        f.close()
+    print(sicList)
+    break
+
     #print(title.text)
     #span = smallLink.find_all('span')
     #print(span)
